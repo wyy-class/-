@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="GBK"?>
+<chat>
+    <messages>
+
+        <message>
+            <from>[系统公告]</from>
+            <face/>
+            <to/>
+            <content><![CDATA[<font color="gray">wen走进了聊天室</font>]]></content>
+            <sendTime>2020-07-03 09:36:59</sendTime>
+            <isPrivate>false</isPrivate>
+        </message>
+        <message>
+            <from>[系统公告]</from>
+            <face/>
+            <to/>
+            <content><![CDATA[<font color="gray">wyyasdl走进了聊天室</font>]]></content>
+            <sendTime>2020-07-03 09:37:06</sendTime>
+            <isPrivate>false</isPrivate>
+        </message>
+        <message>
+            <from>[系统公告]</from>
+            <face></face>
+            <to></to>
+            <content><![CDATA[<font color="gray">wyyasdl退出了聊天室</font>]]></content>
+            <sendTime>2020-07-03 09:37:14</sendTime>
+        </message>
+    </messages>
+</chat>

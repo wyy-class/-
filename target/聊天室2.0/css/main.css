@@ -1,0 +1,45 @@
+ul{
+    margin: 0px;
+    list-style: none;
+    padding-top: 10px;
+}
+.container{
+    width: 800px;
+    height: 600px;
+    border: 1px black solid;
+}
+header{
+    height: 80px;
+    text-align: center;
+    border-bottom: 1px black solid;
+    overflow-y: scroll;
+}
+main{
+    width: 800px;
+    height: 400px;
+    float: left;
+    border-bottom: 1px black solid;
+}
+.online{
+    float: left;
+    width: 200px;
+    height: 400px;
+    border-right: 1px black solid;
+}
+li{
+    margin-bottom: 10px;
+}
+.content{
+    float: left;
+    width: 590px;
+    height: 400px;
+    overflow: scroll;
+}
+footer{
+    clear: left;
+    height: 120px;
+    text-align: center;
+}
+.color{
+    color: greenyellow;
+}
